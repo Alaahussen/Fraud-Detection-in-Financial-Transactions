@@ -1,4 +1,4 @@
-**Fraud Detection in Financial Transactions**
+# Fraud Detection in Financial Transactions
 
 
 This project focuses on detecting fraudulent transactions in financial datasets using various techniques, including data collection, data preprocessing, generating new data using large language models (LLMs) and Generative Adversarial Networks (GANs), Natural Language Processing (NLP), machine learning models, and MLOps. The end goal is to create a robust framework for identifying potential fraud in financial transactions using machine learning models and other advanced techniques.
