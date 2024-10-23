@@ -106,3 +106,12 @@ Implementing CI/CD pipelines, model monitoring, and deployment.
 **Evaluation & Analysis:** Evaluating model performance using classification metrics and performing statistical analysis on results.
 
 ## Results
+1- KNN : 94%
+
+2-SVM: 86%
+
+3-Logistic Regression: 93%
+
+4-Random Forest : 99%
+
+5- XGboost: 99%
